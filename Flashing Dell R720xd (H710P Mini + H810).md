@@ -1,6 +1,6 @@
 # Guide: Flashing Dell R720xd (H710P Mini + H810) to IT Mode & Fixing Boot Conflicts
 
-**Author:** [Your Name/Handle]  
+**Author:** Bikesh Mahato
 **Platform:** Dell PowerEdge R720xd (LFF)  
 **Target OS:** TrueNAS Scale  
 
